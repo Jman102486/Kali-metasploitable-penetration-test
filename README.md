@@ -6,7 +6,7 @@ This project demonstrates a full penetration testing workflow conducted in a con
 The objective was to:
 -Identify vulnerabilities
 -Exploit services
--Gaain root access
+-Gain root access
 -Perform post-exploitation analysis
 
 ---
