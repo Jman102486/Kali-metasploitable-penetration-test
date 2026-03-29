@@ -1,4 +1,4 @@
-# Kali Linux vs Metasploitable 2 - Penetration Testing Lab
+# vulnerability-exploitation- testing
 
 ## Overview
 This project demonstrates a full penetration testing workflow conducted in a controlled lab enviroment using Kali Linux and Metasploitable 2.
